@@ -17,5 +17,4 @@ highlighter:  rouge
 github: [Repository metadata]
 safe: true
 lsi: false
-source: sources
 destination:      _gh_pages
